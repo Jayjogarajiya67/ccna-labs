@@ -136,7 +136,7 @@ ccna-labs/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/JayJogariya967/ccna-labs.git
+   git clone https://github.com/JayJogariya67/ccna-labs.git
    ```
 2. **Open a lab:** Launch Cisco Packet Tracer and open the desired `.pkt` file.
 3. **Read the summary (if available):** Check `labs-summaries/` for the objective and expected outcome before diving in.
@@ -165,7 +165,7 @@ Licensed under the **MIT License** — see [LICENSE](./LICENSE) for full terms.
 
 ## 👤 Author
 
-**Jay Jogariya**
+**Jay Jogaraiya**
 Cybersecurity Student · CCNA Learner
 
 If this repo helped you study, consider giving it a ⭐ — it helps others find it too.
